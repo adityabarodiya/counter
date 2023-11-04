@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(132, 126, 142);
+}
+
+.container{
+    width: 20rem;
+    height: 15rem;
+    
+    background-color: aqua;
+
+}
