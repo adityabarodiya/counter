@@ -5,8 +5,6 @@ let count = 0;
 
 function addOne(){
     c.innerHTML= ++count;
-    console.log('dsfkjhfds')
-
 }
 
 function reSet() {
