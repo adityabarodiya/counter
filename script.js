@@ -1,7 +1,7 @@
 const c = document.getElementById("counter");
 const addBtn = document.getElementById("add");
 const reset = document.getElementById("reset");
-let count = 0;
+let count = 0
 
 function addOne(){
     c.innerHTML= ++count;
