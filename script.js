@@ -4,6 +4,7 @@ const reset = document.getElementById("reset");
 let count = 0
 
 function addOne(){
+    // increase counter
     c.innerHTML= ++count;
 }
 
